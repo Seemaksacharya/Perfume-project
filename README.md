@@ -116,4 +116,4 @@ Prices are formatted as **Indian Rupees (INR)** via `src/utils/format.js`.
 
 ## Live Website
 
-<h2 align="center"><a href="https://perfumeproduct-showcase.vercel.app" target="_blank">Visit My Built Website</a></h2>
+<h2 align="center"><a href="https://perfume-product-showcase.vercel.app" target="_blank">Visit My Built Website</a></h2>
